@@ -1,0 +1,36 @@
+Top 10 regular command
+
+#ls
+list all directory file 
+
+# ls-a
+list all directory also hiden
+
+#ls-al
+list all directory also hiden with file/folder owner 
+
+#pwd
+current working directory
+
+#mkdir <folder name>
+creating new folder based on user provided <folder name>
+
+#touch <file name>
+create empty file 
+
+#touch <file name1> <file name2> <file name3>
+create multiple empty file 
+
+# touch <file name {1..10}>.txt
+creating 10 txt file ,counting from 1 to 10 as per user provied file name
+
+#cat <file name>
+only reading the file
+
+#vim <file name>
+modify the contains in side file such as add,modify and delete any word
+step for working in vim
+1.push i button to insert mode
+2. write,modify and delete any word
+3. push esc for move out from file 
+4. :wq  for save and exit     or  :qa for exit without save
