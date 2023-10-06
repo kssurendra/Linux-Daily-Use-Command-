@@ -1,2 +1,2 @@
-# Linux-Daily-Use-Command-
+# Linux-Daily-Use-Command
 daily user command for devops engineer
